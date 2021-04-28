@@ -39,7 +39,7 @@ export function MyPlants() {
 
       <View style={styles.spotlight}>
         <Image source={waterdrop} style={styles.spotlightImage} />
-        <Text style={styles.spotlightText}>asdaskdop</Text>
+        <Text style={styles.spotlightText}>{nextWaterd}</Text>
       </View>
 
       <View style={styles.plants}>
