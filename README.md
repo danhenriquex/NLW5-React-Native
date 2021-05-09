@@ -3,7 +3,7 @@ Learning React Native from NLW
 
 Things to add: Logout and changing avatar.
 
-![alt text](https://imgur.com/a/QTcyu2g)
+![Screenshot](plaatmanager.png)
 
 Figma 
 
